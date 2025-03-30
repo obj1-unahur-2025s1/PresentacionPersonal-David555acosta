@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: David Isrrael Acosta
+- Vivo en Pontevedra localidad del partido de Merlo
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Ya habia utilizado para pequeños proyectos de forma basuca github
+- Tengo un gato que se llama Barack , y 2 perritas una llamada Katy y la otra Toti
