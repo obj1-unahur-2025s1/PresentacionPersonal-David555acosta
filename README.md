@@ -6,6 +6,7 @@
 ### Datos Personales
 - Mi nombre es: David Isrrael Acosta
 - Vivo en Pontevedra localidad del partido de Merlo
+- Soy estudiante de la tecnicatura en programacion
 
 
 ### Otra Información
